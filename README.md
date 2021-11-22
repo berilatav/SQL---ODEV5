@@ -1,5 +1,5 @@
 # SQL-ODEV5
-Order By, Limit, Offset Operatörleri
+Order By, Limit, Offset Operatörleri (Postgre SQL - pgAdmin tablosuna göre yapılmıştır.)
 ##
 1) SELECT title,length FROM film
    WHERE title LIKE '%n'
